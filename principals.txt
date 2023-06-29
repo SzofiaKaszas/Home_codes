@@ -1,0 +1,13 @@
+Frédéric Vasseur;7;https://www.telegraph.co.uk/content/dam/formula-1/2023/02/28/TELEMMGLPICT000326499335_trans_NvBQzQNjv4BqORC45aTS768L8s2AWUToanx4MzDDtK4qHIWAT2RnxvA.jpeg
+Toto Wolff;9;https://content.presspage.com/uploads/1859/1920_totowolff-iw503607.png?10000
+Andrea Stella;6;https://sportsbase.io/images/gpfans/copy_1200x800/1bfb2b6af70c6bca2456de50f4f160079cbf886a.png
+Mike Krack;8;https://cdn-5.motorsport.com/images/amp/YBeaLBz2/s1000/mike-krack-team-principal-asto.jpg
+Otmar Szafnauer;7;https://www.total-motorsport.com/wp-content/uploads/2023/03/Otmar-Szafnauer-696x391.jpeg
+Alessandro Alunni Bravi;6;https://www.planetsport.com/image-library/land/1200/a/alessandro-alunni-bravi-sauber-oct-2022.jpg
+Guenther Steiner;5;https://i2-prod.dailystar.co.uk/incoming/article28399153.ece/ALTERNATES/s615/1_JS281307958.jpg
+James Vowles;4;https://www.planetsport.com/image-library/land/1200/j/james-vowles-of-williams-24-feb-2023.jpg
+Franz Tost;4;https://static.independent.co.uk/2023/04/26/17/fd1aa025b8da538398a0126aa6afd441Y29udGVudHNlYXJjaGFwaSwxNjgyNjEyOTc5-2.67669847.jpg
+Christian Horner;10;https://img.redbull.com/images/c_crop,x_842,y_0,h_1080,w_864/c_fill,w_790,h_878/q_auto:low,f_auto/redbullcom/2020/10/13/pvpeavt4ijxaodla2w0f/rb-basement-sessions-christian-horner-art
+Mattia Binotto;6;https://cdn-7.motorsport.com/images/amp/2d1LgXpY/s1000/mattia-binotto-team-principal-.jpg
+Jean Todt;10;https://www.auto123.com/ArtImages/163908/f1-schumacher-ferrari-todt-inline.jpg
+Sir Frank Williams;10;https://cdn-8.motorsport.com/images/amp/6b75Eaw0/s1000/frank-williams-williams-1.jpg
