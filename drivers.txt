@@ -1,0 +1,23 @@
+Oscar Piastri;6;https://i.dailymail.co.uk/1s/2023/03/21/05/68928231-11884197-image-a-89_1679377758680.jpg
+Logan Sargeant;4;https://www.racefans.net/wp-content/uploads/2022/10/racefansdotnet-21-10-22-14-23-45-23.jpg
+Yuki Tsunoda;5;https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk4MDU4MzEyNDc2OTI3MTY2/si202305071640.jpg
+Lando Norris;8;https://pbs.twimg.com/media/FysttthWAAE7HSr?format=jpg&name=large
+Zhou Guanyu;5;https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2022/06/25142358/alfa-romeo-zhou-guanyu-canadian-grand-prix-planet-f1.jpg
+Lance Stroll;2;https://nybreaking.com/wp-content/uploads/2023/03/Lance-Stroll-will-race-in-Bahrain-this-weekend-with-PINS.jpg
+George Russell;8;https://formulapedia.com/wp-content/uploads/2022/08/George-Russell.webp
+Charles Leclerc;8;https://thespun.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg5MjAwOTU1MjQxOTMyNTY4/f1-grand-prix-of-bahrain.jpg
+Max Verstappen;10;https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Max_Verstappen_2017_Malaysia_3.jpg/640px-Max_Verstappen_2017_Malaysia_3.jpg
+Esteban Ocon;6;https://cdn-9.motorsport.com/images/amp/6AEkDkE6/s1000/esteban-ocon-alpine-a522-1.jpg
+Alex Albon;6;https://www.si.com/.image/t_share/MTk4NDI4MTY1ODAwOTk0NjQ1/fxjeqboxwaoh7wt.jpg
+Pierre Gasly;6;https://pbs.twimg.com/profile_images/1626917257010970627/WMSqo5NB_400x400.jpg
+Nyck de Vries;4;https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/devries.jpg.img.1536.high.jpg
+Carlos Sainz;7;https://upload.wikimedia.org/wikipedia/commons/7/7e/Formula1Gabelhofen2022_%2804%29.jpg
+Kevin Magnussen;6;https://liquipedia.net/commons/images/a/a0/F1_Kevin_Magnussen_2017.jpg
+Sergio Perez;7;https://formulapedia.com/wp-content/uploads/2022/08/Sergio-Perez.webp
+Valtteri Bottas;7;https://cdn-3.motorsport.com/images/amp/YEQLvWPY/s1000/valtteri-bottas-alfa-romeo-f1-.jpg
+Nico Hulkenberg;6;https://www.racefans.net/wp-content/uploads/2023/02/racefansdotnet-2023-02-11_0542243.jpg
+Lewis Hamilton;10;https://images.ctfassets.net/1fvlg6xqnm65/38dVtZPZ3GgHDqabOUqPDX/7d9cb3fe57de48b4fec7f2182957c59f/Lewis_Hamilton_Header.png?w=3840&q=80
+Fernando Alonso;10;https://sportsbase.io/images/gpfans/copy_1200x800/4c55ca57f5365a495c735671ad087bc8ef743abe.jpg
+Nicholas Latifi;1;https://cdn-3.motorsport.com/images/amp/68yPMDB0/s1000/nicholas-latifi-williams-fw44-.jpg
+Michael Schumacher;10;https://i2-prod.dailystar.co.uk/incoming/article29836639.ece/ALTERNATES/s615/1_Germanys-Michael-Schumacher-arrives-to.jpg
+Daniel Ricciardo;7;https://cdn.vox-cdn.com/thumbor/uRrwy20uAYR1WacryipqUjeS63M=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24738709/1258832621.jpg
